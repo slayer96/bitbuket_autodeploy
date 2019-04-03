@@ -1,5 +1,0 @@
-ubuntu@ip-172-31-29-242:~/projects/auto_deploy$ [Kubuntu@ip-172-31-29-242:~/projects/auto_deploy$ exit
-Cannot exec 'ExecStart=/home/ubuntu/virtual_environments/amazon_api/bin/uwsgi --socket 0.0.0.0:7000 --protocol=http -w wsgi:app': No such file or directory
-Cannot exec 'ExecStart=/home/ubuntu/virtual_environments/amazon_api/bin/uwsgi --socket 0.0.0.0:7000 --protocol=http -w wsgi:app': No such file or directory
-Cannot exec '/home/ubuntu/virtual_environments/amazon_api/bin/uwsgi --socket 0.0.0.0:7000 --protocol=http -w wsgi:app': No such file or directory
-ubuntu@ip-172-31-29-242:~/projects/auto_deploy$ ubuntu@ip-172-31-29-242:~/projects/auto_deploy$ ubuntu@ip-172-31-29-242:~/projects/auto_deploy$ 
